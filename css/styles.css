@@ -181,10 +181,11 @@ footer {
     margin-bottom: 2rem;
     overflow:hidden;
     z-index: 5;
+    overlay: rgba(64, 0, 255, 0.5);
 }
 .hero img {
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
     object-fit:cover ;
     object-position:center ;
 }
