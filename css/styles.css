@@ -86,7 +86,7 @@ header h1 {
 }
 
 footer {
-    text-align: center;
+    text-align:end;
     color: white;
     margin-top: 40px;
     padding: 20px;
